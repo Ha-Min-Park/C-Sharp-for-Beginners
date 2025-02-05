@@ -1,0 +1,14 @@
+/Users/haminpark/Documents/code/helloworld/bin/Debug/net9.0/helloworld
+/Users/haminpark/Documents/code/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/haminpark/Documents/code/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/haminpark/Documents/code/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/haminpark/Documents/code/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/ref/helloworld.dll
