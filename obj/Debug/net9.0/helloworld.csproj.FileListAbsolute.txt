@@ -12,3 +12,4 @@
 /Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.pdb
 /Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
 /Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/ref/helloworld.dll
+/Users/haminpark/Documents/code/helloworld/obj/Debug/net9.0/helloworld.sourcelink.json
