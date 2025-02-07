@@ -1,5 +1,39 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+// Branching, Ifs, and Conditional Logic [Pt 9]
+int a = 5;
+int b = 6;
+if (a + b > 10)
+    Console.WriteLine("The answer is greater than 10.");
+
+int c = 5;
+int d = 6;
+int e = c + d;
+
+bool myTest = e > 10; // will be true or false
+
+if (myTest) // is true
+{
+    Console.WriteLine("The answer is greater than 10.");
+} // otherwise
+else
+{
+    Console.WriteLine("The answer is LESS than 10.");
+}
+
+int f = 4;
+if ((a + b + f > 10) && (a == b)) // (a == b) means "are you equal?"
+{
+    Console.WriteLine("The answer is greater than 10");
+    Console.WriteLine("And the first number is equal to the second");
+}
+else
+{
+    Console.WriteLine("The answer is not greater than 10");
+    Console.WriteLine("Or the first number is not equal to the second");
+}
+
+/*
 // Numbers, Precision, Casting, Doubles, and More [Pt 8]
 double a = 42.1; // natural type
 float b = 38.2F;
@@ -10,9 +44,10 @@ decimal d = 42.1M; // explicit type
 decimal e = 38.2M;
 decimal f = d + e;
 Console.WriteLine($"The answer is {f}");
+*/
 
-// Numbers, Integers, and Math [Pt 7]
 /*
+// Numbers, Integers, and Math [Pt 7]
 int a = 18;
 int b = 6;
 int c = a + b;
